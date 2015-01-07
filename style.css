@@ -7,3 +7,7 @@ Author URI:     http://mysite.com/
 Template:       customizr      
 Version:        1.0.0            
 */
+
+.carousel-caption {
+  background-color: rgba(0,0,0,.4);
+}
